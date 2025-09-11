@@ -17,13 +17,13 @@ There is no simple pre-screening system to identify urgent patients early, and m
 
 Step-by-step process flow:
 
-- 1. Patient or staff logs symptoms via LWC intake form.
-- 2. System calculates urgency score and identifies the relevant department (Gynecology, Cardiology, Orthopedics, General, Emergency, etc.).
-- 3. A Patient Case record is created in Salesforce with fields: Urgency Level + Department.
-- 4. Flow automation routes the case to the correct department queue/doctor.
-- 5. Urgent cases still trigger instant notifications + tasks.
-- 6.Clinician in that department reviews the case and (optionally) uses Agentforce AI to auto-generate a clinical note.
-- 7. Hospital Management tracks case distribution and SLA compliance via reports & dashboards.
+- 1) Patient or staff logs symptoms via LWC intake form.
+- 2) System calculates urgency score and identifies the relevant department (Gynecology, Cardiology, Orthopedics, General, Emergency, etc.).
+- 3.  A Patient Case record is created in Salesforce with fields: Urgency Level + Department.
+- 4.  Flow automation routes the case to the correct department queue/doctor.
+- 5.  Urgent cases still trigger instant notifications + tasks.
+- 6.  Clinician in that department reviews the case and (optionally) uses Agentforce AI to auto-generate a clinical note.
+- 7.  Hospital Management tracks case distribution and SLA compliance via reports & dashboards.
 
 # 3. Industry-Specific Use Case Analysis
 
