@@ -11,9 +11,7 @@ There is no simple pre-screening system to identify urgent patients early, and m
 - Uses Agentforce AI to generate clinical notes and assist doctors with quick insights.
 - Provides reports and dashboards to track emergency workloads and SLA compliance
 # Use case diagram
-=======
- Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
->>>>>>> fd32252 (Initial Salesforce DX project setup)
+![File Output](useCase/useCaseDiagram.png)
 # 2. Business Process Mapping
 
 Step-by-step process flow:
