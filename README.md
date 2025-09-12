@@ -1,15 +1,15 @@
 
 # Problem Statement
-In many Indian hospitals, emergency wards face overcrowding. Patients with minor issues and those with life-threatening conditions often wait in the same queue, causing delays for critical cases.
-There is no simple pre-screening system to identify urgent patients early, and manual paperwork further slows down care.
+In many Indian hospitals, OPD departments struggle with overcrowding and long queues. Patient routing is done manually by staff, often leading to misdirection, inefficiency, and delays in care. The absence of a digital pre-screening system makes it difficult to identify patients’ needs early, while reliance on manual paperwork further slows down hospital operations and reduces patient satisfaction.
 # Proposed Solution
 *Patient-First-Aid-Priority-App* is a Salesforce-based system that:
--  Lets patients or hospital staff log symptoms quickly through a custom Lightning Web Component (LWC).
-- Calculates an urgency score and classifies cases as Low, Medium, or High.
-- Automatically routes urgent cases to the right clinician using Flows.
-- Triggers instant alerts and tasks for High-priority patients.
+-  Enables hospital staff to log patient symptoms through a guided Lightning Web Component (LWC).
+- Suggests the correct OPD department (Cardiology, Gynecology, General, etc.) based on entered symptoms.
+- Uses Flows to automatically route patient cases to department queues.
+- Leverages Agentforce AI to generate quick clinical notes and insights for doctors.
 - Uses Agentforce AI to generate clinical notes and assist doctors with quick insights.
-- Provides reports and dashboards to track emergency workloads and SLA compliance
+- Provides dashboards and reports to hospital managers, showing department load, waiting queues, and SLA compliance.
+- Reduces manual paperwork and improves patient experience by speeding up OPD routing
 # Use case diagram
 <img width="1024" height="768" alt="UseCaseDiagram" src="https://github.com/user-attachments/assets/5867932c-792b-4676-8972-8c0fee44de21" />
 
