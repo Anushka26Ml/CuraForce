@@ -18,6 +18,6 @@
 - Permission Sets : will decided as devlop furthur
 - OWD 
 - Login Access Policies
- <a href="./documentation/SF%20Project.pdf" target="_blank">
+ <a href="/docs/SF%20ProjectUpdated.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
