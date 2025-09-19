@@ -6,6 +6,9 @@
 - Business Process Mapping 
 -  Industry-specific Use Case Analysis 
 -  AppExchange Exploration 
+ <a href="docs/phase1.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
 
 ## Phase 2: Org Setup & Configuration 
 - Salesforce Editions 
@@ -18,6 +21,6 @@
 - Permission Sets : will decided as devlop furthur
 - OWD 
 - Login Access Policies
- <a href="/docs/SF%20ProjectUpdated.pdf" target="_blank">
+ <a href="docs/Phase2.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
