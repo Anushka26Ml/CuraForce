@@ -24,9 +24,11 @@
  <a href="docs/Phase2.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
+
 ## Phase 3: Data Modeling & Relationships 
-- Standard & Custom Objects 
-- Fields 
+
+- Standard & Custom Objects
+- Fields
 - Record Types 
 - Page Layouts 
 - Compact Layouts 
