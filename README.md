@@ -40,3 +40,46 @@
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 
+## Phase 4: Process Automation (Admin) 
+ -  Validation Rules 
+ - Workflow Rules 
+ - Process Builder 
+- Approval Process 
+- Flow Builder (Screen, Record-Triggered, Scheduled, Auto-launched) 
+- Email Alerts 
+- Field Updates 
+- Tasks 
+- Custom Notifications
+
+## Phase 5: Apex Programming (Developer) 
+- Classes & Objects 
+- Apex Triggers (before/after insert/update/delete) 
+- Trigger Design Pattern 
+- SOQL & SOSL 
+- Collections: List, Set, Map 
+- Control Statements 
+- Batch Apex 
+- Queueable Apex 
+- Scheduled Apex 
+- Future Methods 
+- Exception Handling 
+- Test Classes 
+- Asynchronous Processing
+<a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/d7e8cd71f5d709d84a5c2bfa3b3e39fa84cdf5fc/docs/Phase5.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+## Phase 6: User Interface Development 
+- Lightning App Builder 
+- Record Pages 
+- Tabs 
+- Home Page Layouts 
+- Utility Bar 
+- LWC (Lightning Web Components) 
+- Apex with LWC 
+- Events in LWC 
+- Wire Adapters 
+- Imperative Apex Calls
+<a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/d7e8cd71f5d709d84a5c2bfa3b3e39fa84cdf5fc/docs/Phase6.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
