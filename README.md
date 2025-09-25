@@ -83,3 +83,33 @@
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase6.pdf&embedded=true" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
+
+## Phase 7: Integration & External Access 
+- Named Credentials 
+- External Services 
+- Web Services (REST/SOAP) 
+- Callouts 
+- Platform Events 
+- Change Data Capture 
+- Salesforce Connect 
+- API Limits 
+- OAuth & Authentication 
+- Remote Site Settings
+
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase7.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+## Phase 8: Data Management & Deployment 
+- Data Import Wizard 
+- Data Loader 
+- Duplicate Rules 
+- Data Export & Backup 
+- Change Sets 
+- Unmanaged vs Managed Packages 
+- ANT Migration Tool 
+- VS Code & SFDX 
+
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase8.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
