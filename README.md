@@ -80,6 +80,6 @@
 - Events in LWC 
 - Wire Adapters 
 - Imperative Apex Calls
-<a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/d7e8cd71f5d709d84a5c2bfa3b3e39fa84cdf5fc/docs/Phase6.pdf&embedded=true" target="_blank">
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase6.pdf&embedded=true" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
