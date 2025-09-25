@@ -11,6 +11,8 @@ public with sharing class AppointmentController {
                    Doctor__r.Name, Patient__r.Name, Clinic__r.Name
             FROM Appointment__c
             WHERE Patient__c = :patientId
+            AND Appointment_DateTime__c >= :System.today()   
+              AND Status__c = 'Scheduled'
             ORDER BY Appointment_DateTime__c ASC
             LIMIT 10
         ];
