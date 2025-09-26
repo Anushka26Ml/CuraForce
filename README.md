@@ -129,6 +129,6 @@
 - Login IP Ranges 
 - Audit Trail
   
-  <a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/main/docs/Phase9.pdf&embedded=true" target="_blank">
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase9.pdf&embedded=true" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
