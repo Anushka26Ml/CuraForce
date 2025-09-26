@@ -50,6 +50,10 @@
 - Field Updates 
 - Tasks 
 - Custom Notifications
+  
+<a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/main/docs/Phase4.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
 
 ## Phase 5: Apex Programming (Developer) 
 - Classes & Objects 
@@ -111,5 +115,19 @@
 - VS Code & SFDX 
 
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Anushka26Ml/CuraForce/main/docs/Phase8.pdf&embedded=true" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+## Phase 9: Reporting, Dashboards & Security Review 
+- Reports (Tabular, Summary, Matrix, Joined) 
+- Report Types 
+- Dashboards 
+- Dynamic Dashboards 
+- Sharing Settings 
+- Field Level Security 
+- Session Settings 
+- Login IP Ranges 
+- Audit Trail
+  <a href="https://docs.google.com/viewer?url=https://github.com/Anushka26Ml/CuraForce/raw/main/docs/Phase9.pdf&embedded=true" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
